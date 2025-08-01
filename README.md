@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Inguva Sathvik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **React.Js**
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👯 I’m looking to collaborate on **Exciting Projects**
-
-- 📫 How to reach me **sathvikinguva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
