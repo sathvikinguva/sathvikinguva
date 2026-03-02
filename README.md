@@ -8,8 +8,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 - B.Tech CSE (Cloud Computing) @ SRM University AP  
@@ -17,8 +15,6 @@
 - Interested in Blockchain & Secure Systems  
 - Built AI-based Sensitive Content Detection Model  
 - Hackathon Winner (Blockchain & Healthcare Theme)
-
----
 
 ## Tech Stack
 
@@ -39,23 +35,16 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
 ## Achievements
 
 🏅 Winner – HackSRM 6.0 (Blockchain Track)  
 🏅 Winner – Hack For India (Healthcare Theme)
 
----
-
 ## GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sathvikinguva&show_icons=true&theme=tokyonight" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikinguva&theme=tokyonight" />
 </p>
-
----
 
 ## Connect With Me
 
@@ -64,7 +53,5 @@
 <a href="https://linkedin.com/in/sathvikinguva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://sathvik-inguva.web.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
-
----
 
 ⭐ *“Building scalable systems. Exploring Blockchain. Learning AI.”*
