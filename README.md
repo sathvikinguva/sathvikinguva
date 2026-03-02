@@ -11,7 +11,6 @@
 ## About Me
 
 - B.Tech CSE (Cloud Computing) @ SRM University AP  
-- React Intern @ Celebal Technologies  
 - Interested in Blockchain & Secure Systems  
 - Built AI-based Sensitive Content Detection Model  
 - Hackathon Winner (Blockchain & Healthcare Theme)
